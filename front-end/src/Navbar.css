@@ -1,0 +1,7 @@
+.githublink {
+    color: white;
+}
+
+.githublink:hover {
+    color: #1DB954;
+}

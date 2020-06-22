@@ -1,0 +1,84 @@
+.loginbutton {
+    color: white;
+    background-color: #1DB954;
+    border-radius: 30px;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    letter-spacing: 2px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 15%;
+}
+
+.loginbutton:hover {
+    background-color: #33c065
+}
+
+.form {
+    text-align: center;
+}
+
+.artistInput {
+    width: 30%;  
+    border-radius: 30px;  
+    text-decoration: none;
+    box-sizing: border-box;
+    height: 30px;
+    margin: auto;
+    padding: 10px
+}
+
+input:focus {
+    outline: none;
+}
+.trackslist li {
+    text-align: left;
+    display: block;
+    margin: auto;
+    width: 30%;
+    list-style-type: none;
+}
+
+.searchbutton {
+    background-color: #1DB954;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    border: none;
+    letter-spacing: 2px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+.searchbutton:hover {
+    background-color: #33c065;
+}
+
+.searchbutton:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.intro {
+    width: 70%;
+    margin: auto;
+    color: white;
+}
+
+.introbackground {
+    background-image: linear-gradient(to bottom, #717171, #212121);
+    background-color: white;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
